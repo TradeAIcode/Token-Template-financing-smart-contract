@@ -16,6 +16,20 @@ Para entender cada uno de los parámetros necesarios al desplegar este contrato,
 
 📘 [Ver explicación detallada de los parámetros de despliegue](README_parametros.md)
 ---
+## ⏳ Recomendación Adicional: Uso de Contratos de Vesting
+
+Para aumentar la confianza en tu proyecto y proteger los fondos asignados a miembros del equipo, asesores o inversores tempranos, se recomienda **usar un contrato de vesting**.
+
+Un contrato de vesting permite:
+- Liberar tokens de forma escalonada en el tiempo (ej. mensual).
+- Prevenir ventas tempranas y manipulaciones de mercado.
+- Aumentar la transparencia y el compromiso a largo plazo.
+
+Puedes utilizar plantillas estándar como:
+- OpenZeppelin's [`VestingWallet`](https://docs.openzeppelin.com/contracts/4.x/api/token/erc20#VestingWallet)
+- Contratos personalizados adaptados a tu tokenómica.
+
+> 🛡️ Esto mejora la seguridad percibida y la imagen profesional del proyecto frente a comunidades e inversores.
 ---
 
 ## 📊 Diagrama de Flujo
