@@ -12,7 +12,7 @@ Plantilla para crear un contrato inteligente ERC-20 avanzado con múltiples func
 ## 📊 Diagrama de Flujo
 
 <p align="center">
-  <img src="imagenes/iagrama_flujo_jarvi_token_financing.png" width="600" alt="Token Flowchart">
+  <img src="imagenes/diagrama_flujo_jarvi_token_financing.png" width="600" alt="Token Flowchart">
 </p>
 
 Este diagrama representa el flujo de funcionamiento del contrato:
