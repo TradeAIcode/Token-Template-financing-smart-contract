@@ -5,8 +5,17 @@
 
 # 💰 Token Financing – Smart Contract
 
-Plantilla para crear un contrato inteligente ERC-20 avanzado con múltiples funcionalidades de financiación, comisiones, recompensas y control de liquidez.
+Plantilla para crear un contrato inteligente avanzado con múltiples funcionalidades de financiación, comisiones, recompensas y control de liquidez.
+Este repositorio contiene un contrato inteligente para lanzar tokens ERC-20 con funciones de auto-financiamiento, reflejo y liquidez automática. Ideal para proyectos DeFi que buscan una base segura, escalable y transparente.
 
+---
+
+## 📘 Parámetros del Contrato
+
+Para entender cada uno de los parámetros necesarios al desplegar este contrato, consulta el siguiente documento detallado:
+
+📘 [Ver explicación detallada de los parámetros de despliegue](README_parametros.md)
+---
 ---
 
 ## 📊 Diagrama de Flujo
